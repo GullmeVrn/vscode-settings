@@ -1,0 +1,35 @@
+{
+  "recommendations": [
+    // PHP
+    "bmewburn.php-intelephense",
+    "mblode.twig-language-2",
+    "neilbrayfield.php-docblocker",
+
+    // Editor
+    "antfu.file-nesting",
+    "prettier.prettier",
+    "2gua.rainbow-brackets",
+    "microsoft.french-language-pack-for-vscode",
+    "EditorConfig.EditorConfig",
+
+    //themes + icons
+    "antfu.icons-carbon",
+    "enkia.tokyo-night",
+    "philippkief.material-icon-theme",
+
+    // Frameworks
+    "Vue.volar",
+    "Vue.vscode-typescript-vue-plugin",
+    "jripouteau.adonisjs-extension",
+    "astrop.astro",
+    "svelte.svelte-vscode",
+
+    // Test
+    "microsft.playwright",
+
+    // Life Saver
+    "microsoft.docker",
+    "GitHub.copilot",
+    "ritwickdey.LiveServer"
+  ]
+}
