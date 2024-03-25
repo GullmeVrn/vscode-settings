@@ -1,35 +1,73 @@
 {
-  "recommendations": [
-    // PHP
-    "bmewburn.php-intelephense",
-    "mblode.twig-language-2",
-    "neilbrayfield.php-docblocker",
+    "recommendations": [
+        // AdonisJS Extensions
+        "adonisjs.vscode-edge",
+        "jripouteau.adonis-vscode-extension",
+        "jripouteau.japa-vscode",
 
-    // Editor
-    "antfu.file-nesting",
-    "prettier.prettier",
-    "2gua.rainbow-brackets",
-    "microsoft.french-language-pack-for-vscode",
-    "EditorConfig.EditorConfig",
+        // Angular Extensions
+        "angular.ng-template",
 
-    //themes + icons
-    "antfu.icons-carbon",
-    "enkia.tokyo-night",
-    "philippkief.material-icon-theme",
+        // VueJS Extensions
+        "antfu.unocss",
+        "vue.volar",
 
-    // Frameworks
-    "Vue.volar",
-    "Vue.vscode-typescript-vue-plugin",
-    "jripouteau.adonisjs-extension",
-    "astrop.astro",
-    "svelte.svelte-vscode",
+        // Astro Extensions
+        "astro-build.astro-vscode",
 
-    // Test
-    "microsft.playwright",
+        // PHP Extensions
+        "bmewburn.vscode-intelephense-client",
+        "neilbrayfield.php-docblocker",
 
-    // Life Saver
-    "microsoft.docker",
-    "GitHub.copilot",
-    "ritwickdey.LiveServer"
-  ]
+        // Tailwind CSS Extensions
+        "bradlc.vscode-tailwindcss",
+        "csstools.postcss",
+        "sastan.twind-intellisense",
+
+        // Linting Extensions
+        "dbaeumer.vscode-eslint",
+
+        // Deno Extensions
+        "denoland.vscode-deno",
+
+        // Editor Config Extensions
+        "editorconfig.editorconfig",
+
+        // Theme Extensions
+        "enkia.tokyo-night",
+        "pkief.material-icon-theme",
+
+        // Formatting Extensions
+        "esbenp.prettier-vscode",
+        "jinxdash.prettier-rust",
+
+        // GitHub Extensions
+        "github.copilot",
+        "github.copilot-chat",
+
+        // Docker Extensions
+        "ms-azuretools.vscode-docker",
+
+        // Language Pack Extensions
+        "ms-ceintl.vscode-language-pack-fr",
+
+        // Playwright Extensions
+        "ms-playwright.playwright",
+
+        // Live Server Extensions
+        "ritwickdey.liveserver",
+
+        // Rust Extensions
+        "rust-lang.rust-analyzer",
+        "tamasfe.even-better-toml",
+
+        // Svelte Extensions
+        "svelte.svelte-vscode",
+
+        // TypeScript Extensions
+        "yoavbls.pretty-ts-errors",
+
+        // File Nesting Extensions
+        "antfu.file-nesting"
+    ]
 }
